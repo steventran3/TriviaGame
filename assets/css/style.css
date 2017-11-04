@@ -1,0 +1,17 @@
+body {
+  background-image: url("../images/kobe.jpg");
+  background-color: black;
+  color: white;
+}
+
+#title{
+	padding-left: 5%;
+}
+
+#subwrapper{
+	padding-left: 5%;
+}
+
+#wrapper{
+	padding-top: 5%;
+}
